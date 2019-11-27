@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Wordpress SSL redirect fix
+ * Plugin Name: SSL redirect fix
  * Plugin URI: https://github.com/circlehd/wordpress-ssl-redirect-fix
  * Description: Fix for wordpress redirect loop under reverse proxies
  * Version: 1.0.0
