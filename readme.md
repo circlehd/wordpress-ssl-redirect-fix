@@ -1,5 +1,5 @@
 # ssl-redirect-fix
-Fix for wordpress redirect loop under reverse proxies
+Wordpress plug-in, fix for redirect loops under reverse proxies with SSL termination enabled.
 
 License: MIT
 
